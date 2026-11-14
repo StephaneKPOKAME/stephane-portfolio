@@ -1,0 +1,9 @@
+# Sources de travail : jamais envoyées à Vercel
+assets-sources
+design
+scripts
+dist
+node_modules
+CLAUDE.md
+README.md
+.DS_Store
